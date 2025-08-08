@@ -18,5 +18,5 @@
  */
 return [
     'Clear filters' => 'Limpiar filtros',
-    'Records per page' => 'Registros por pagina',
+    'Records per page' => 'Registros por página',
 ];
